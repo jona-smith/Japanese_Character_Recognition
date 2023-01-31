@@ -1,0 +1,1 @@
+# Japanese_Character_Recognition
